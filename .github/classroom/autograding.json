@@ -54,7 +54,7 @@
       "name": "Test6",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
-      "input": "",
+      "input": null,
       "output": "'' no comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
