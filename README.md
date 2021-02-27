@@ -26,13 +26,13 @@
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
   Escribe una palabra: Ana
-  Ana comienza con "A"
+  'Ana' comienza con 'A'
   
   Escribe una palabra: árbol
-  árbol comienza con "A"
+  'árbol' comienza con 'A'
   
   Escribe una palabra: Berenjena
-  Berenjena no comienza con "A"
+  'Berenjena' no comienza con 'A'
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
@@ -61,9 +61,9 @@
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `Ana` | `Ana comienza con "A"` |
-| `árbol` | `árbol comienza con "A"` |
-| `Berenjena`  | `Berenjena no comienza con "A"` |
+| `Ana` | `'Ana' comienza con 'A'` |
+| `árbol` | `'árbol' comienza con 'A'` |
+| `Berenjena`  | `'Berenjena' no comienza con 'A'` |
 
 ## Rúbrica
 - Presentación: 20%
