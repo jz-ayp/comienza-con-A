@@ -51,16 +51,6 @@
       "points": null
     },
     {
-      "name": "Test6",
-      "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
-      "input": null,
-      "output": "'' no comienza con 'A'",
-      "comparison": "included",
-      "timeout": 1,
-      "points": null
-    },
-    {
       "name": "Test7",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
