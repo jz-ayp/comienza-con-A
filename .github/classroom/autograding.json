@@ -8,7 +8,7 @@
       "output": "'Ana' comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test2",
@@ -18,7 +18,7 @@
       "output": "'árbol' comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test3",
@@ -28,7 +28,7 @@
       "output": "'Berenjena' no comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test4",
@@ -38,7 +38,7 @@
       "output": "'Árbol' comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test5",
@@ -48,7 +48,7 @@
       "output": "'androide' comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test7",
@@ -58,7 +58,7 @@
       "output": "'123' no comienza con 'A'",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     }
 
   ]
