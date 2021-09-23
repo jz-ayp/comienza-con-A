@@ -1,9 +1,8 @@
 # Estructuras de decisión
-
 ## Ejercicio: Letra A
 
 ## Objetivos
-- Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
+- Formular una solución efectiva a un problema que incorpora estructuras de decisión y manipulación de texto.
 - Interpretar adecuadamente los requisitos de solución de un problema a partir de su descripcion en lenguaje natural.
 - Generar, a partir del análisis del problema:
     - La identificación correcta de las entradas y salidas requeridas, y
@@ -12,12 +11,11 @@
 - Codificar el algoritmo en un programa correcto de Python.
 - Identificar y ejecutar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
 
-- Recognize, Identify, Select, Analyze, Differentiate, Distinguish, Diagram, Examine, Outline, Subdivide, Understand, Demonstrate, Illustrate, Represent, Interpret, Evaluate, Apply, Assess, Chart, Construct, Develop, Implement, Prepare, Provide, Compute, Contribute, Determine, Establish, Include, Produce, Show, Combine, Design, Make, Plan, Compose, Create, Devise, Formulate, 
-
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
-    - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
+    - Con la extensión Draw<span>.</span>io Integration de Henning Dietrichs puedes utilizar diagrams.net directamente desde VS Code. Si creas tu archivo con la extensión `.drawio.png`, tu diagrama quedará automáticamente en formato png pero será un archivo editable.
+    - Si decides utilizar directamente el sitio [diagrams.net](https://app.diagrams.net/), puedes ver un ejemplo de cómo subir los diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
 - **Diseña un programa para determinar si una palabra dada comienza con la letra "A"**. Toma en cuenta que puede estar en mayúscula o minúscula, con o sin acento, etc.
 
@@ -66,10 +64,6 @@
 | `Berenjena`  | `'Berenjena' no comienza con 'A'` |
 
 ## Rúbrica
-- Presentación: 20%
-- Funcionalidad: 60%
-- Pruebas: 20%
-
 Verifica tu entrega contra esta rúbrica para maximizar tu calificación. Los puntos se indican en porcentaje.
 
 | Criterio | Puntos |
@@ -82,4 +76,10 @@ Verifica tu entrega contra esta rúbrica para maximizar tu calificación. Los pu
 | Formato de salidas:<br>- conforme al ejemplo en las instrucciones. | 5 |
 | Diagrama de flujo:<br>- es claro y legible,<br>- corresponde con la lógica del programa,<br>- usa las formas geométricas correctas, y<br>- está en formato png<br>[Cómo subir diagramas de flujo a GitHub](https://youtu.be/oy5nhA7QpNI) | 15 |
 | Pruebas de ejecución:<br>- son suficientes para comprobar la funcionalidad del programa,<br>- al menos una de las capturas de pantalla muestra el escritorio completo, y<br>- son legibles. | 15 |
-| Funcionalidad:<br>- pasa los casos de prueba de ejemplo, y<br>- pasa los casos de prueba reservados por el profesor. | 30 |
+| Técnica:<br>- se utilizaron las técnicas indicadas para la solución (por ejemplo, uso de determinadas estructuras, uso de funciones). | 5 |
+| Funcionalidad:<br>- pasa los casos de prueba de ejemplo, y<br>- pasa los casos de prueba reservados por el profesor. | 25 |
+
+Estos puntajes son equivalentes, aproximadamente, a la siguiente ponderación:
+- Presentación: 20%
+- Funcionalidad: 60%
+- Pruebas: 20%
