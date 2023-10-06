@@ -1,15 +1,16 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Comienza con A
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
+palabra = input("Escriba una palabra: ")
 
 # Proceso
-
+if len(palabra) > 0 and palabra[0].lower() in "aá":
+    comienza = "comienza"
+else:
+    comienza = "no comienza"
+respuesta = "'" + palabra + "' " + comienza + " con 'A'"
 
 # Salidas
-print(salida)
+print(respuesta)
